@@ -1,0 +1,14 @@
+# python
+*.pyc
+
+# pyenv
+.python-version
+
+# Virtualenv
+.venv
+
+# Env fil
+.env
+
+# IDE Stuff
+.vscode
